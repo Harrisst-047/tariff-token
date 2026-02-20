@@ -1,0 +1,11 @@
+{
+  "name": "Tariff",
+  "symbol": "TARIFF",
+  "decimals": 18,
+  "description": "Tariff is a meme coin on the Cronos network.",
+  "image": "https://raw.githubusercontent.com/Harrisst-047/tariff-token/main/assets/tariff.png",
+  "website": "",
+  "twitter": "",
+  "telegram": "",
+  "explorer": "https://cronoscan.com/token/0xb87bBca4c93cDA650B3b8EbcC4bF841E564f9a38"
+}
